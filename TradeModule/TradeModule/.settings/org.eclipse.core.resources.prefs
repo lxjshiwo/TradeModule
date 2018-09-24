@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/Client.py=utf-8
+encoding//src/Constant.py=utf-8
+encoding//src/Control.py=utf-8
+encoding//src/DbControler.py=utf-8
+encoding//src/Filter.py=utf-8
+encoding//src/ListenRemote.py=utf-8
+encoding//src/Monitor.py=utf-8
+encoding//src/ParseTrader.py=utf-8
+encoding//src/ShowDlg.py=utf-8
+encoding//src/ThreadControl/__init__.py=utf-8
+encoding//src/Trader.py=utf-8
+encoding//src/example.py=utf-8
