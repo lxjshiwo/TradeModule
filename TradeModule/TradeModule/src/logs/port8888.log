@@ -1,6 +1,1 @@
-Mon, 24 Sep 2018 03:52:35 ListenRemote.py[line:519] DEBUG 9244112.74.48.66 8888listen
-Mon, 24 Sep 2018 03:52:47 ListenRemote.py[line:469] DEBUG login user ¶«±±Ö¤È¯ 50506031
-Mon, 24 Sep 2018 03:52:52 Filter.py[line:288] DEBUG inserted accountfunds table
-Mon, 24 Sep 2018 03:52:52 Filter.py[line:251] DEBUG updated position table
-Mon, 24 Sep 2018 03:52:52 Filter.py[line:299] DEBUG no entrust
-Mon, 24 Sep 2018 03:52:52 ListenRemote.py[line:472] DEBUG updated succeed
+Mon, 24 Sep 2018 12:56:33 ListenRemote.py[line:519] DEBUG 6576112.74.48.66 8888listen
