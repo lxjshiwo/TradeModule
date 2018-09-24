@@ -15,19 +15,17 @@ from BrokerType.ChangChengStockInfo import ChangChengStockInfo
 
 from BrokerType.GuoJunStockInfo import GuoJunStockInfo
 from BrokerType.DongGuanStockInfo import DongGuanStockInfo
-
+from BrokerType.DongBeiStockInfo import DongBeiStockInfo
 from BrokerType.GuoShengStockInfo import GuoShengStockInfo
 from BrokerType.ZhongTouStockInfo import ZhongTouStockInfo
 
-import tkinter
-from tkinter import *
-from Filter import * 
 import os
 import multiprocessing
 import logging
 
 import re
 from logging.handlers import TimedRotatingFileHandler
+from Filter import HengXingStockInfo, ChangJiangStockInfo
 
 
 #测试东北登陆
